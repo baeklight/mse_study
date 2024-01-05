@@ -2,7 +2,7 @@
 #include <cmath>
 #include <cstring>
 using namespace std;
-
+//히히 여기 추가했지롱
 
 class Base_Calculator {
     long N, B;
